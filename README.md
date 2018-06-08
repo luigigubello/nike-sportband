@@ -34,7 +34,7 @@ The only useful features of Sportband are:
 * weight
 
 So I worked on these features, the Python code can:
-* read and change the weight
+* read and set the weight
 * set date and time, by reading the date of the computer
 * extracts data in hex format
 
